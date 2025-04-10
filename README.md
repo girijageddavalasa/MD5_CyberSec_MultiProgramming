@@ -11,7 +11,9 @@ This project showcases a simple multithreaded **brute-force MD5 cracker** using 
 ## 🛠 Setup (MSYS2 on Windows)
 
 ### ✅ Requirements:
-- MSYS2 installed → [https://www.msys2.org/](https://www.msys2.org/)
+- MSYS2 installed → [https://www.msys2.org/]([https://www.msys2.org/](https://www.msys2.org/
+)![image](https://github.com/user-attachments/assets/029f6f8f-257e-4965-b954-9d8491e00a45)
+)
 - `gcc` with OpenMP support  
 - Basic C knowledge + interest in cryptography or OS-level parallelism
 
