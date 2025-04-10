@@ -18,6 +18,7 @@ This project showcases a simple multithreaded **brute-force MD5 cracker** using 
 ---
 
 ## ⚙️ Compilation & Execution
+**NOTE:Refer PPT attached for more codes if so not installed MSYS2 or any compilation problems**
 
 Open **MSYS2 shell** and run:
 
